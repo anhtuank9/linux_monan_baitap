@@ -32,9 +32,3 @@ tensv_masv/
     └── python/
         └── tong.py
 ```
-
-## 11. Link GitHub
-
-```text
-https://github.com/anhtuank9/linux_monan_baitap
-```
